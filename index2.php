@@ -1,3 +1,3 @@
 <?php
-echo "Hola mundo, esta es la segunda pagina para el examen";
+echo "Segundo cambio para el ejercicio 5, para la segunda pagina del examen";
 ?>
